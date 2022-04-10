@@ -14,5 +14,6 @@ $ docker-compose up --build
 
 # A aplicação então, será iniciada na porta 3000
 
-# Enviar requisição (get|post) para: http://localhost:3000/transactions
+# Enviar requisição (get|post)
+$ http://localhost:3000/transactions
 ```
